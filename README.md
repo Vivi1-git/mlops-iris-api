@@ -1,5 +1,6 @@
 # mlops-iris-api
 
+```text
 mlops-iris-api/
 ├── deployments/           # Les services concernant le déploiements, que nous verrons plus tard.
 ├── models/
